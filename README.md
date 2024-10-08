@@ -1,4 +1,4 @@
-# cardiohealth
+# cardiohealth : Cardiovascular Health Analysis 
 # Project Overview
 This project aims to analyze a cardiovascular health dataset to uncover insights into how demographic, clinical, and lifestyle factors contribute to cardiovascular disease (CVD). The analysis is divided into two deliverables: the Business Report Notebook, which presents the analysis and key findings, and the Development Notebook, which details the technical steps, algorithms, and pseudocode used to perform the analysis.
 
